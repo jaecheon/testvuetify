@@ -1,0 +1,5 @@
+export const SetAccessToken = "SETACCCESSTOKEN"
+export const SetNickName = "SETNICKNAME"
+export const LogOut = "LOGOUT"
+export const Increment = "INCREMENT"
+export const Decrement = "DECREMENT"
